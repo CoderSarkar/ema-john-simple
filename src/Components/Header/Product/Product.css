@@ -1,0 +1,28 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid lightgrey;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.product-name{
+    color: blueviolet;
+    font-weight: 700;
+}
+.product-property{
+    padding: 5px;
+    margin-left: 10px;
+}
+.btn{
+    background-color: orange;
+    width: 200px;
+    height: 35px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: crimson;
+}
+.icon{
+    margin-right: 10px;
+}
