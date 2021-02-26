@@ -1,0 +1,15 @@
+
+.product-summury{
+    background-color: cadetblue;
+}
+
+.order-summury{
+    text-align: center;
+    background-color: lightgrey;
+    height: 40px;
+}
+
+.price-summury{
+    margin-left: 20px;
+    padding: 10px;
+}
